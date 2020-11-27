@@ -13,4 +13,8 @@ public class A{
 	string changesByStaing() {
 		
 	}
+	void changesByDEv() {
+		
+	}
+	
 }
