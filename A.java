@@ -6,6 +6,11 @@ public class A{
 		
 	}
 	
+	void changesByDEv() {
+		
+	}
+	
+	
 	void changesByStaging() {
 		
 	}
@@ -13,12 +18,5 @@ public class A{
 	string changesByStaing() {
 		
 	}
-	void changesByDEv() {
-		
-	}
 	
-	
-	void changesByDEv() {
-		
-	}
 }
