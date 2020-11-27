@@ -5,4 +5,8 @@ public class A{
 	void function getdata() {
 		
 	}
+	
+	void changesByDEv() {
+		
+	}
 }
