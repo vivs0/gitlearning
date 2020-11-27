@@ -9,4 +9,8 @@ public class A{
 	void changesByStaging() {
 		
 	}
+	
+	string changesByStaing() {
+		
+	}
 }
